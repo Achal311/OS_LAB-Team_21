@@ -91,6 +91,16 @@ li a:hover{
     transform: translateY(-.2em);
     transition: transform .3s;
 }
+#con{
+    color: white;
+}
+#con:hover{
+    color: #84FF0A;
+    text-decoration: none;
+    transform: translateY(-.2em);
+    transition: transform .3s;
+    cursor: pointer;
+}
 /*-----second-nav-end-----*/
 .mainbody{
     color: white;
