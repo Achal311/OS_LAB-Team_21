@@ -92,14 +92,14 @@ li a:hover{
     transition: transform .3s;
 }
 #con{
-    color: white;
+    color: white !important;
 }
 #con:hover{
-    color: #84FF0A;
-    text-decoration: none;
-    transform: translateY(-.2em);
-    transition: transform .3s;
-    cursor: pointer;
+    color: #84FF0A !important;
+    text-decoration: none !important;
+    transform: translateY(-.2em) !important;
+    transition: transform .3s !important;
+    cursor: pointer !important;
 }
 /*-----second-nav-end-----*/
 .mainbody{
